@@ -18,7 +18,7 @@
 # - Software Version: Matlab R2018a and R 4.1.2
 #  ----------------------------------------------------------------------------------------------------
 #
-#  License: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)]
+#  License: Apache 2.0
 #
 # ----------------------------------------------------------------------------------------------------
 # How to cite:
